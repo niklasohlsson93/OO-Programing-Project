@@ -7,5 +7,5 @@ http://www.cse.chalmers.se/edu/course/tda367/#news
 Performed by the following entrepreneurs:
 //Josefin Svegborn
 //Niklas Ohlsson
-\\Nima Ahymadan
+\Nima Ahymadan
 Sathian Sugumaran
