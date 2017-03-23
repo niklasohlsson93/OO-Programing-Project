@@ -10,4 +10,3 @@ http://www.cse.chalmers.se/edu/course/tda367/#news
 - Nima Ahmadyan
 - Sathian Sugumaran
 -Running through the
-- d
