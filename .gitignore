@@ -1,1 +1,32 @@
+*.class
+.metadata
+.classpath
 
+# Package Files #
+#*.jar
+*.war
+*.ear
+
+# Windows
+**/Thumbs.db
+
+# Eclipse
+.classpath
+.project
+.settings/
+.META-INF/
+
+# Intellij IDEA
+**/.idea
+**/*.iml
+
+# Netbeans
+**/nbactions.xml
+**/nb-configuration.xml
+
+# Mac
+.DS_Store
+
+# Maven
+**/log/
+**/pom.properties
